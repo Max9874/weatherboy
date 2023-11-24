@@ -1,0 +1,11 @@
+Using this bot you can get information
+about weather all over the world.
+
+This bot uses visualcrossing weather API
+to get all information by HTTPS request.
+
+This product is a school project for
+OSO made fully by Maksym Vyazovsky.
+
+Enter the city name:
+
